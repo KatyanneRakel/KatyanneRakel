@@ -1,9 +1,9 @@
-<h1 align="center">Olá 👋, eu sou Katyanne Rakel Ferreira Tavares</h1>
+<h1 align="center">Olá! Eu sou Katyanne Rakel Ferreira Tavares</h1>
 <h3 align="center">Apaixonada por criar experiências web acessíveis e responsivas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katyannerakel&label=Profile%20views&color=0e75b6&style=flat" alt="katyannerakel" /> </p>
 
-- 🔭 Atualmente estudante de Sistemas para Internet **Estudante de Sistemas para Internet Conhecimentos Básicos em: HTML, CSS, PHYTON.**
+- 🔭 Atualmente estudante de Sistemas para Internet **Estudante de Sistemas para Internet, Conhecimentos Básicos em: HTML, CSS, PHYTON.**
 
 - 🤝 eventos **mulher tech sim senhor!**
 
